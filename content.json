@@ -1,0 +1,2141 @@
+{
+ "_help": "EDIT GUIDE: every text is {\"en\": \"...\", \"id\": \"...\"}. Keep the quotes and commas. To add an item, copy a whole {...} block of the same kind, paste it after a comma, then change the words. Images live in the img/ folder: an item with \"id\": \"c-abc\" uses img/c-abc.jpg. Links go in \"links\" below. Send me the changed file and I will publish it.",
+ "links": {
+  "qaSheet": "https://docs.google.com/spreadsheets/d/1r2TcSSS1FjyPxsXxoOdQ3VN-Vn5bE9gluUPnti_b8w0/edit?usp=sharing",
+  "article": ""
+ },
+ "profile": {
+  "name": "Ersa Meilia",
+  "eyebrow": {
+   "en": "Web Development · Technical Writing · QA · Educational Media",
+   "id": "Web Development · Technical Writing · QA · Media Pendidikan"
+  },
+  "tagline": {
+   "en": "I **build and test web applications**, and write the documentation that helps people use them.",
+   "id": "Saya **membangun dan menguji aplikasi web**, dan menulis dokumentasi yang membantu pengguna memakainya."
+  },
+  "summary": {
+   "en": "Computer Science Education graduate of Universitas Pendidikan Indonesia (cum laude). Former QA and Technical Writer intern at Telkom Test House.",
+   "id": "Lulusan Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia (cum laude). Mantan intern QA dan Technical Writer di Telkom Test House."
+  },
+  "cta1": {
+   "en": "See my experience",
+   "id": "Lihat pengalaman saya"
+  },
+  "cta2": {
+   "en": "Browse the evidence",
+   "id": "Lihat bukti dan sertifikat"
+  },
+  "stats": [
+   {
+    "n": "3.93",
+    "l": {
+     "en": "GPA on a 4.00 scale",
+     "id": "IPK dari skala 4,00"
+    }
+   },
+   {
+    "n": "24",
+    "l": {
+     "en": "API endpoints documented",
+     "id": "endpoint API terdokumentasi"
+    }
+   },
+   {
+    "n": "4",
+    "l": {
+     "en": "role-based user guides",
+     "id": "user guide berbasis peran"
+    }
+   },
+   {
+    "n": "80+",
+    "l": {
+     "en": "students guided in labs",
+     "id": "mahasiswa dibimbing di lab"
+    }
+   }
+  ],
+  "heroAlt": {
+   "en": "Ersa Meilia in her graduation sash, seated by a pond",
+   "id": "Ersa Meilia mengenakan selempang wisuda, duduk di tepi kolam"
+  },
+  "email": "meiliaersa@gmail.com"
+ },
+ "about": {
+  "eyebrow": {
+   "en": "About me",
+   "id": "Tentang saya"
+  },
+  "lead": {
+   "en": "A Computer Science Education graduate (S.Pd.) of Universitas Pendidikan Indonesia, cum laude with a 3.93 GPA. Experienced as a QA and technical writer at Telkom Test House, and as a practicum assistant and teaching intern. I build web and mobile apps, write technical documentation, and have the certificates to back it up.",
+   "id": "Lulusan S1 Pendidikan Ilmu Komputer Universitas Pendidikan Indonesia dengan predikat cum laude (IPK 3,93). Berpengalaman sebagai QA dan technical writer di Telkom Test House, serta sebagai asisten praktikum dan guru magang. Saya membangun aplikasi web dan mobile, menulis dokumentasi teknis, dan didukung sertifikat pelatihan dan kompetensi."
+  },
+  "stackTitle": {
+   "en": "Tech stack",
+   "id": "Tech stack"
+  },
+  "stack": [
+   {
+    "name": "JavaScript",
+    "logo": "javascript"
+   },
+   {
+    "name": "React",
+    "logo": "react"
+   },
+   {
+    "name": "Express.js",
+    "logo": "express"
+   },
+   {
+    "name": "PHP",
+    "logo": "php"
+   },
+   {
+    "name": "CodeIgniter",
+    "logo": "codeigniter"
+   },
+   {
+    "name": "MySQL",
+    "logo": "mysql"
+   },
+   {
+    "name": "MongoDB",
+    "logo": "mongodb"
+   },
+   {
+    "name": "Git",
+    "logo": "git"
+   },
+   {
+    "name": "GitHub",
+    "logo": "github"
+   },
+   {
+    "name": "draw.io",
+    "logo": "drawio"
+   },
+   {
+    "name": "Bootstrap",
+    "logo": "bootstrap"
+   },
+   {
+    "name": "Figma",
+    "logo": "figma"
+   },
+   {
+    "name": "Canva",
+    "logo": "canva"
+   }
+  ],
+  "groups": [
+   {
+    "k": {
+     "en": "Web development",
+     "id": "Pengembangan web"
+    },
+    "tone": "web",
+    "items": [
+     {
+      "en": "Full-stack web apps",
+      "id": "Aplikasi web full-stack"
+     },
+     {
+      "en": "Mobile apps",
+      "id": "Aplikasi mobile"
+     },
+     {
+      "en": "REST API",
+      "id": "REST API"
+     },
+     {
+      "en": "Database design",
+      "id": "Desain database"
+     },
+     {
+      "en": "Responsive UI",
+      "id": "Antarmuka responsif"
+     }
+    ]
+   },
+   {
+    "k": {
+     "en": "Software testing",
+     "id": "Pengujian perangkat lunak"
+    },
+    "tone": "test",
+    "items": [
+     {
+      "en": "Functional testing",
+      "id": "Functional testing"
+     },
+     {
+      "en": "Manual testing",
+      "id": "Manual testing"
+     },
+     {
+      "en": "API testing",
+      "id": "API testing"
+     },
+     {
+      "en": "Usability heuristics",
+      "id": "Heuristik usability"
+     },
+     {
+      "en": "Bug reporting",
+      "id": "Pelaporan bug"
+     },
+     {
+      "en": "Retesting",
+      "id": "Retesting"
+     }
+    ]
+   },
+   {
+    "k": {
+     "en": "Technical documentation",
+     "id": "Dokumentasi teknis"
+    },
+    "tone": "doc",
+    "items": [
+     {
+      "en": "SRS",
+      "id": "SRS"
+     },
+     {
+      "en": "Use case diagram",
+      "id": "Use case diagram"
+     },
+     {
+      "en": "Sequence diagram",
+      "id": "Sequence diagram"
+     },
+     {
+      "en": "Flowchart",
+      "id": "Flowchart"
+     },
+     {
+      "en": "Storyboard",
+      "id": "Storyboard"
+     },
+     {
+      "en": "Wireframe",
+      "id": "Wireframe"
+     },
+     {
+      "en": "REST API docs",
+      "id": "Dokumentasi REST API"
+     },
+     {
+      "en": "User guide",
+      "id": "User guide"
+     }
+    ]
+   },
+   {
+    "k": {
+     "en": "Learning media & materials",
+     "id": "Media & bahan ajar"
+    },
+    "tone": "edu",
+    "items": [
+     {
+      "en": "LKPD (student worksheets)",
+      "id": "LKPD"
+     },
+     {
+      "en": "Teaching modules",
+      "id": "Modul ajar"
+     },
+     {
+      "en": "Interactive learning media",
+      "id": "Media pembelajaran interaktif"
+     }
+    ]
+   },
+   {
+    "k": {
+     "en": "Languages",
+     "id": "Bahasa"
+    },
+    "tone": "lang",
+    "items": [
+     {
+      "en": "Indonesian (native)",
+      "id": "Indonesia (bahasa ibu)"
+     },
+     {
+      "en": "English (PTESOL 490)",
+      "id": "Inggris (PTESOL 490)"
+     }
+    ]
+   }
+  ]
+ },
+ "sections": {
+  "experience": {
+   "eyebrow": {
+    "en": "Experience",
+    "id": "Pengalaman"
+   },
+   "evidence": {
+    "en": "Evidence",
+    "id": "Bukti"
+   },
+   "detail": {
+    "en": "See details",
+    "id": "Lihat detail"
+   },
+   "detailClose": {
+    "en": "Close",
+    "id": "Tutup"
+   }
+  },
+  "qa": {
+   "eyebrow": {
+    "en": "QA portfolio",
+    "id": "Portofolio QA"
+   },
+   "title": {
+    "en": "SauceDemo test portfolio",
+    "id": "Portofolio pengujian SauceDemo"
+   },
+   "sub": {
+    "en": "My test work in one spreadsheet. Click the preview to open it.",
+    "id": "Hasil pengujian saya dalam satu spreadsheet. Klik pratinjau untuk membukanya."
+   }
+  },
+  "features": {
+   "eyebrow": {
+    "en": "What it can do",
+    "id": "Apa yang bisa dilakukan"
+   },
+   "title": {
+    "en": "Four things CodeVisualize does for students",
+    "id": "Empat hal yang dilakukan CodeVisualize untuk siswa"
+   }
+  },
+  "projects": {
+   "eyebrow": {
+    "en": "Projects",
+    "id": "Proyek"
+   },
+   "title": {
+    "en": "Things I have built",
+    "id": "Yang pernah saya bangun"
+   },
+   "sub": {
+    "en": "Web and mobile projects, including my thesis. Click a card for the details and screenshots.",
+    "id": "Proyek web dan mobile, termasuk skripsi saya. Klik kartu untuk melihat detail dan tangkapan layar."
+   }
+  },
+  "evidence": {
+   "eyebrow": {
+    "en": "Evidence",
+    "id": "Bukti"
+   },
+   "title": {
+    "en": "Certificates and attachments",
+    "id": "Sertifikat dan lampiran"
+   },
+   "sub": {
+    "en": "Filter by type and click any certificate to read it in full. Use the arrow keys to move between them.",
+    "id": "Saring berdasarkan jenis dan klik sertifikat untuk membacanya utuh. Gunakan tombol panah untuk berpindah."
+   },
+   "orgs": {
+    "en": "Organizations",
+    "id": "Organisasi"
+   }
+  },
+  "contact": {
+   "eyebrow": {
+    "en": "Contact",
+    "id": "Kontak"
+   }
+  }
+ },
+ "experience": [
+  {
+   "id": "telkom",
+   "tab": {
+    "en": "Telkom Test House",
+    "id": "Telkom Test House"
+   },
+   "title": {
+    "en": "Software Developer Intern (QA & Technical Writer)",
+    "id": "Software Developer Intern (QA & Technical Writer)"
+   },
+   "org": {
+    "en": "Telkom Indonesia (Persero) Tbk · Telkom Test House · Bandung",
+    "id": "Telkom Indonesia (Persero) Tbk · Telkom Test House · Bandung"
+   },
+   "period": {
+    "en": "Aug 2025 – Jan 2026",
+    "id": "Agu 2025 – Jan 2026"
+   },
+   "lead": {
+    "en": "The Telkom Test House application covers account management, internal and external calibration, and type approval. I worked on it as both tester and technical writer. I wrote the first technical documentation for the application and tested its features against the design and specification.",
+    "id": "Aplikasi Telkom Test House mencakup manajemen akun, kalibrasi internal dan eksternal, serta type approval. Saya mengerjakannya sebagai penguji sekaligus technical writer. Saya menyusun dokumentasi teknis pertama untuk aplikasi ini dan menguji fitur-fiturnya berdasarkan desain dan spesifikasi."
+   },
+   "columns": [
+    {
+     "h": {
+      "en": "What I tested",
+      "id": "Yang saya uji"
+     },
+     "items": [
+      {
+       "en": "End-to-end and feature-by-feature functional testing, based on the design and specification.",
+       "id": "Functional testing end-to-end dan per fitur, berdasarkan desain dan spesifikasi."
+      },
+      {
+       "en": "Checked data directly in the database, so a result was confirmed beyond what the screen showed.",
+       "id": "Memeriksa data langsung di database, sehingga hasil terkonfirmasi lebih dari sekadar tampilan layar."
+      },
+      {
+       "en": "Reported bugs to the developers and retested after each fix.",
+       "id": "Melaporkan bug kepada developer dan melakukan retesting setelah setiap perbaikan."
+      },
+      {
+       "en": "Ran heuristic-based usability checks and validated content and technical terminology.",
+       "id": "Melakukan pengujian usability berbasis heuristik serta validasi konten dan terminologi teknis."
+      }
+     ]
+    },
+    {
+     "h": {
+      "en": "What I documented",
+      "id": "Yang saya dokumentasikan"
+     },
+     "items": [
+      {
+       "en": "Four role-based user guides: account management, internal calibration, external calibration and type approval.",
+       "id": "Empat user guide berbasis peran: manajemen akun, kalibrasi internal, kalibrasi eksternal, dan type approval."
+      },
+      {
+       "en": "An application update log.",
+       "id": "Update log aplikasi."
+      },
+      {
+       "en": "A basic SRS with use case and sequence diagrams.",
+       "id": "SRS dasar beserta use case diagram dan sequence diagram."
+      },
+      {
+       "en": "REST API documentation for 24 endpoints (Auth, User, Role, Device).",
+       "id": "Dokumentasi REST API untuk 24 endpoint (Auth, User, Role, Device)."
+      }
+     ]
+    }
+   ],
+   "note": {
+    "en": "I also supported users, and passed cases the system did not yet handle to the developers as input for new features.",
+    "id": "Saya juga memberi dukungan kepada pengguna dan menyampaikan kasus yang belum terakomodasi sistem kepada developer sebagai bahan pengembangan fitur."
+   },
+   "chip": {
+    "en": "Magenta Digistar Class · Grade A (Very Satisfactory)",
+    "id": "Magenta Digistar Class · Nilai A (Sangat Memuaskan)"
+   },
+   "evidence": [
+    "telkom-team",
+    "c-magenta"
+   ],
+   "carousels": [
+    "docs",
+    "tests"
+   ],
+   "label": {
+    "en": "Industry",
+    "id": "Industri"
+   },
+   "summary": [
+    {
+     "en": "Wrote the first technical documentation: 4 user guides, a basic SRS and REST API docs for 24 endpoints.",
+     "id": "Menyusun dokumentasi teknis pertama: 4 user guide, SRS dasar, dan dokumentasi REST API untuk 24 endpoint."
+    },
+    {
+     "en": "Tested features end to end against the spec, checked data in the database and retested every fix.",
+     "id": "Menguji fitur end-to-end terhadap spesifikasi, memeriksa data di database, dan retest setiap perbaikan."
+    },
+    {
+     "en": "Passed Magenta Digistar Class with Grade A.",
+     "id": "Lulus Magenta Digistar Class dengan nilai A."
+    }
+   ],
+   "orgShort": {
+    "en": "Telkom Test House · Bandung",
+    "id": "Telkom Test House · Bandung"
+   }
+  },
+  {
+   "id": "asprak",
+   "tab": {
+    "en": "Practicum Assistant",
+    "id": "Asisten Praktikum"
+   },
+   "title": {
+    "en": "Practicum Assistant",
+    "id": "Asisten Praktikum"
+   },
+   "org": {
+    "en": "Computer Science Education Study Program, Universitas Pendidikan Indonesia",
+    "id": "Program Studi Pendidikan Ilmu Komputer, Universitas Pendidikan Indonesia"
+   },
+   "period": {
+    "en": "Sep 2023 – Dec 2024",
+    "id": "Sep 2023 – Des 2024"
+   },
+   "lead": {
+    "en": "Three semesters, three courses, more than 80 students guided in the lab. The course changed each time, so the skill I built changed too.",
+    "id": "Tiga semester, tiga mata kuliah, lebih dari 80 mahasiswa dibimbing di lab. Mata kuliahnya berganti setiap semester, jadi keahlian yang saya asah pun berbeda."
+   },
+   "courses": [
+    {
+     "name": {
+      "en": "Algorithms & Programming",
+      "id": "Algoritma & Pemrograman"
+     },
+     "sem": {
+      "en": "Odd semester 2023/2024",
+      "id": "Semester ganjil 2023/2024"
+     },
+     "theme": {
+      "en": "Helping beginners write their first working code",
+      "id": "Membantu pemula menulis kode pertama yang berjalan"
+     },
+     "points": [
+      {
+       "en": "Students practised every concept in code in the same week it was taught, because I wrote the weekly module with material, exercises and coding problems.",
+       "id": "Mahasiswa mempraktikkan setiap konsep langsung dalam kode di minggu yang sama, karena saya menyusun modul mingguan berisi materi, latihan, dan soal koding."
+      },
+      {
+       "en": "Coding assignments and practical exam questions tested whether students could solve a problem, not only repeat syntax.",
+       "id": "Tugas koding dan soal ujian praktikum menguji apakah mahasiswa mampu menyelesaikan masalah, bukan sekadar mengulang sintaks."
+      },
+      {
+       "en": "Graded work came back with feedback, so students knew what to fix before the next session.",
+       "id": "Hasil penilaian dikembalikan disertai umpan balik, sehingga mahasiswa tahu apa yang harus diperbaiki sebelum sesi berikutnya."
+      }
+     ],
+     "focus": {
+      "en": "Explaining the basics clearly to people who are new to programming.",
+      "id": "Menjelaskan dasar-dasar dengan jelas kepada orang yang baru belajar pemrograman."
+     },
+     "skills": [
+      {
+       "en": "Algorithms",
+       "id": "Algoritma"
+      },
+      {
+       "en": "Programming fundamentals",
+       "id": "Dasar pemrograman"
+      },
+      {
+       "en": "Problem solving",
+       "id": "Pemecahan masalah"
+      },
+      {
+       "en": "Writing exercises",
+       "id": "Menulis soal latihan"
+      }
+     ],
+     "cert": "c-asprak-algo"
+    },
+    {
+     "name": {
+      "en": "Data Structures",
+      "id": "Struktur Data"
+     },
+     "sem": {
+      "en": "2023/2024",
+      "id": "2023/2024"
+     },
+     "theme": {
+      "en": "Turning abstract structures into something students build themselves",
+      "id": "Mengubah struktur yang abstrak menjadi sesuatu yang dibangun sendiri oleh mahasiswa"
+     },
+     "points": [
+      {
+       "en": "Lab sessions moved students from reading about data structures to implementing them, with me guiding them step by step.",
+       "id": "Sesi lab membawa mahasiswa dari sekadar membaca tentang struktur data menjadi mengimplementasikannya, dengan bimbingan saya langkah demi langkah."
+      },
+      {
+       "en": "Coding problems in each module let students check their own understanding and find gaps early.",
+       "id": "Soal koding di setiap modul membuat mahasiswa dapat mengecek pemahaman sendiri dan menemukan celahnya lebih awal."
+      },
+      {
+       "en": "My feedback pointed to where a solution's logic broke, which helped students debug on their own next time.",
+       "id": "Umpan balik saya menunjukkan di mana logika sebuah solusi bermasalah, sehingga mahasiswa bisa men-debug sendiri di kesempatan berikutnya."
+      }
+     ],
+     "focus": {
+      "en": "Tracing logic and debugging together with students, and explaining technical ideas in plain words.",
+      "id": "Menelusuri logika dan men-debug bersama mahasiswa, serta menjelaskan ide teknis dengan bahasa sederhana."
+     },
+     "skills": [
+      {
+       "en": "Data structures",
+       "id": "Struktur data"
+      },
+      {
+       "en": "Logic and debugging",
+       "id": "Logika dan debugging"
+      },
+      {
+       "en": "Explaining technical ideas",
+       "id": "Menjelaskan ide teknis"
+      },
+      {
+       "en": "Writing assessments",
+       "id": "Menyusun asesmen"
+      }
+     ],
+     "cert": "c-asprak-sd"
+    },
+    {
+     "name": {
+      "en": "Database Systems",
+      "id": "Sistem Basis Data"
+     },
+     "sem": {
+      "en": "Odd semester 2024/2025",
+      "id": "Semester ganjil 2024/2025"
+     },
+     "theme": {
+      "en": "Guiding students from exercises to a system that actually runs",
+      "id": "Membimbing mahasiswa dari latihan hingga sistem yang benar-benar berjalan"
+     },
+     "points": [
+      {
+       "en": "Students finished the course with a relational database they designed themselves and connected to a web application back end, not just a set of queries.",
+       "id": "Mahasiswa menyelesaikan mata kuliah dengan basis data relasional rancangan sendiri yang terhubung ke backend aplikasi web, bukan sekadar kumpulan query."
+      },
+      {
+       "en": "I guided each final project, so design mistakes surfaced while there was still time to fix them.",
+       "id": "Saya memandu setiap proyek akhir, sehingga kesalahan desain terlihat selagi masih ada waktu untuk memperbaikinya."
+      },
+      {
+       "en": "Feedback covered both the database design and the way it was used by the application.",
+       "id": "Umpan balik mencakup desain basis datanya dan cara aplikasi menggunakannya."
+      }
+     ],
+     "focus": {
+      "en": "Mentoring a project from design to a working result. This is the same database and back-end work I do in my own projects.",
+      "id": "Membimbing proyek dari desain hingga hasil yang berjalan. Ini sama dengan pekerjaan database dan backend pada proyek saya sendiri."
+     },
+     "skills": [
+      {
+       "en": "Relational database design",
+       "id": "Desain basis data relasional"
+      },
+      {
+       "en": "SQL",
+       "id": "SQL"
+      },
+      {
+       "en": "Back-end integration",
+       "id": "Integrasi backend"
+      },
+      {
+       "en": "Mentoring projects",
+       "id": "Membimbing proyek"
+      }
+     ],
+     "cert": "c-asprak-sbd"
+    }
+   ],
+   "note": {
+    "en": "**Link to QA:** grading work against set criteria and explaining what is wrong are the same habits I use when I test software against a specification.",
+    "id": "**Kaitan dengan QA:** menilai pekerjaan berdasarkan kriteria dan menjelaskan letak kesalahannya adalah kebiasaan yang sama dengan saat saya menguji perangkat lunak terhadap spesifikasi."
+   },
+   "evidence": [
+    "c-asprak-algo",
+    "c-asprak-sd",
+    "c-asprak-sbd"
+   ],
+   "carousels": [],
+   "label": {
+    "en": "University",
+    "id": "Kampus"
+   },
+   "summary": [
+    {
+     "en": "3 semesters, 3 courses: Algorithms & Programming, Data Structures, Database Systems.",
+     "id": "3 semester, 3 mata kuliah: Algoritma & Pemrograman, Struktur Data, Sistem Basis Data."
+    },
+    {
+     "en": "Wrote weekly modules and exam questions, and guided 80+ students in the lab.",
+     "id": "Menyusun modul mingguan dan soal ujian, serta membimbing 80+ mahasiswa di lab."
+    },
+    {
+     "en": "Mentored final projects that connect a relational database to a web back end.",
+     "id": "Membimbing proyek akhir yang menghubungkan basis data relasional dengan backend web."
+    }
+   ],
+   "orgShort": {
+    "en": "Universitas Pendidikan Indonesia",
+    "id": "Universitas Pendidikan Indonesia"
+   }
+  },
+  {
+   "id": "ppl",
+   "tab": {
+    "en": "Teacher Intern",
+    "id": "Guru Magang"
+   },
+   "title": {
+    "en": "Software Engineering Teacher Intern",
+    "id": "Guru Magang Rekayasa Perangkat Lunak"
+   },
+   "org": {
+    "en": "SMK Negeri 2 Bandung",
+    "id": "SMK Negeri 2 Bandung"
+   },
+   "period": {
+    "en": "Feb 2025 – Jun 2025",
+    "id": "Feb 2025 – Jun 2025"
+   },
+   "bullets": [
+    {
+     "en": "Wrote curriculum material and practicum modules for Software Engineering and Web Development for a full semester.",
+     "id": "Menyusun materi kurikulum dan modul praktikum Rekayasa Perangkat Lunak dan Pengembangan Web untuk satu semester penuh."
+    },
+    {
+     "en": "Taught in class and explained each topic step by step.",
+     "id": "Mengajar langsung di kelas dan menjelaskan materi secara bertahap."
+    },
+    {
+     "en": "Guided students to build web applications with clean code, from planning to the final presentation.",
+     "id": "Membimbing siswa membangun aplikasi web berbasis clean code, dari perencanaan hingga presentasi akhir."
+    },
+    {
+     "en": "Assessed projects and presentations against set criteria and gave feedback for improvement.",
+     "id": "Menilai proyek dan presentasi siswa berdasarkan kriteria yang ditetapkan serta memberi umpan balik untuk perbaikan."
+    }
+   ],
+   "evidence": [
+    "teaching",
+    "c-p3k"
+   ],
+   "carousels": [],
+   "label": {
+    "en": "School",
+    "id": "Sekolah"
+   },
+   "summary": [
+    {
+     "en": "Wrote curriculum material and practicum modules for a full semester.",
+     "id": "Menyusun materi kurikulum dan modul praktikum untuk satu semester penuh."
+    },
+    {
+     "en": "Taught in class and guided students to build web apps with clean code.",
+     "id": "Mengajar di kelas dan membimbing siswa membangun aplikasi web dengan clean code."
+    },
+    {
+     "en": "Assessed projects and presentations against set criteria, with feedback.",
+     "id": "Menilai proyek dan presentasi berdasarkan kriteria, disertai umpan balik."
+    }
+   ],
+   "orgShort": {
+    "en": "SMK Negeri 2 Bandung",
+    "id": "SMK Negeri 2 Bandung"
+   }
+  }
+ ],
+ "qa": {
+  "card": {
+   "title": {
+    "en": "QA portfolio spreadsheet",
+    "id": "Spreadsheet portofolio QA"
+   },
+   "text": {
+    "en": "Manual functional and exploratory testing of the SauceDemo web shop: 29 test cases across 5 modules, with a bug report tab.",
+    "id": "Functional dan exploratory testing manual pada web shop SauceDemo: 29 test case di 5 modul, lengkap dengan tab bug report."
+   },
+   "open": {
+    "en": "Open the spreadsheet",
+    "id": "Buka spreadsheet"
+   },
+   "skillsTitle": {
+    "en": "QA skills",
+    "id": "Keterampilan QA"
+   },
+   "skills": [
+    {
+     "en": "Functional testing",
+     "id": "Functional testing"
+    },
+    {
+     "en": "API testing",
+     "id": "API testing"
+    },
+    {
+     "en": "Database verification (SQL)",
+     "id": "Verifikasi database (SQL)"
+    },
+    {
+     "en": "Bug reporting and retesting",
+     "id": "Pelaporan bug dan retesting"
+    },
+    {
+     "en": "Usability heuristics",
+     "id": "Heuristik usability"
+    }
+   ],
+   "previewAlt": {
+    "en": "Preview of the QA portfolio spreadsheet",
+    "id": "Pratinjau spreadsheet portofolio QA"
+   },
+   "previewHint": {
+    "en": "Open in Google Sheets",
+    "id": "Buka di Google Sheets"
+   }
+  }
+ },
+ "thesis": {
+  "title": {
+   "en": "CodeVisualize: Interactive Learning Media Based on Discovery Learning to Improve Vocational Students' Logical Thinking Skills in Object-Oriented Programming",
+   "id": "CodeVisualize: Media Pembelajaran Interaktif Berbasis Discovery Learning untuk Meningkatkan Kemampuan Berpikir Logis Siswa SMK pada Materi Pemrograman Berorientasi Objek"
+  },
+  "lead": {
+   "en": "CodeVisualize is a web-based interactive learning medium that helps vocational high school students understand abstract object-oriented programming (OOP) concepts visually. It joins a code editor with conceptual visualisations.",
+   "id": "CodeVisualize adalah media pembelajaran interaktif berbasis web yang membantu siswa SMK memahami konsep abstrak Pemrograman Berorientasi Objek (PBO) secara visual. Media ini menggabungkan code editor dengan visualisasi konseptual."
+  },
+  "articleBtn": {
+   "en": "Read the article",
+   "id": "Baca artikelnya"
+  },
+  "featBtn": {
+   "en": "See what it can do",
+   "id": "Lihat fiturnya"
+  },
+  "chip": {
+   "en": "Published · SINTA 4 journal · 2026",
+   "id": "Terbit · jurnal SINTA 4 · 2026"
+  },
+  "details": [
+   {
+    "h": {
+     "en": "Approach",
+     "id": "Pendekatan"
+    },
+    "open": true,
+    "t": {
+     "en": "Research and Development (R&D). The medium follows the Discovery Learning approach and combines a code editor with conceptual visualisation.",
+     "id": "Research and Development (R&D). Media mengikuti pendekatan Discovery Learning dan menggabungkan code editor dengan visualisasi konseptual."
+    }
+   },
+   {
+    "h": {
+     "en": "Participants",
+     "id": "Partisipan"
+    },
+    "t": {
+     "en": "Grade 10 students (PPLG) at SMK Al-Falah.",
+     "id": "Siswa kelas X PPLG di SMK Al-Falah."
+    }
+   },
+   {
+    "h": {
+     "en": "Built with",
+     "id": "Dibangun dengan"
+    },
+    "t": {
+     "en": "React.js, Express.js, MongoDB",
+     "id": "React.js, Express.js, MongoDB"
+    }
+   },
+   {
+    "h": {
+     "en": "Result",
+     "id": "Hasil"
+    },
+    "t": {
+     "en": "Statistical tests showed that student learning outcomes improved, and the improvement did not depend on students' prior ability.",
+     "id": "Uji statistik menunjukkan hasil belajar siswa meningkat, dan peningkatan itu tidak dipengaruhi oleh perbedaan kemampuan awal siswa."
+    }
+   }
+  ],
+  "factsTitle": {
+   "en": "At a glance",
+   "id": "Sekilas"
+  },
+  "facts": [
+   {
+    "k": {
+     "en": "Type",
+     "id": "Jenis"
+    },
+    "v": {
+     "en": "Undergraduate thesis (skripsi), 2026",
+     "id": "Skripsi S1, 2026"
+    }
+   },
+   {
+    "k": {
+     "en": "Method",
+     "id": "Metode"
+    },
+    "v": {
+     "en": "R&D",
+     "id": "R&D"
+    }
+   },
+   {
+    "k": {
+     "en": "Context",
+     "id": "Konteks"
+    },
+    "v": {
+     "en": "Object-oriented programming, vocational high school",
+     "id": "Pemrograman berorientasi objek, SMK"
+    }
+   },
+   {
+    "k": {
+     "en": "My role",
+     "id": "Peran saya"
+    },
+    "v": {
+     "en": "Built the medium end to end and evaluated it with real students in a classroom.",
+     "id": "Membangun media dari awal sampai akhir dan mengevaluasinya bersama siswa di kelas."
+    }
+   }
+  ]
+ },
+ "features": [
+  {
+   "img": "feat-1",
+   "big": true,
+   "rec": true,
+   "video": "",
+   "t": {
+    "en": "Code becomes a picture",
+    "id": "Kode menjadi gambar"
+   },
+   "d": {
+    "en": "Write object-oriented code and CodeVisualize turns it into a picture. The structure that is hidden inside the code appears as something students can see and follow.",
+    "id": "Tulis kode berorientasi objek dan CodeVisualize mengubahnya menjadi gambar. Struktur yang tersembunyi di dalam kode muncul sebagai sesuatu yang bisa dilihat dan diikuti siswa."
+   }
+  },
+  {
+   "img": "feat-2",
+   "big": false,
+   "rec": false,
+   "video": "",
+   "t": {
+    "en": "Code editor inside the page",
+    "id": "Code editor di dalam halaman"
+   },
+   "d": {
+    "en": "Students write code right where they learn. There is nothing to install, so a lesson can start in the browser.",
+    "id": "Siswa menulis kode di tempat mereka belajar. Tidak ada yang perlu diinstal, sehingga pelajaran bisa langsung dimulai di browser."
+   }
+  },
+  {
+   "img": "feat-3",
+   "big": false,
+   "rec": false,
+   "video": "",
+   "t": {
+    "en": "Abstract ideas made visible",
+    "id": "Konsep abstrak jadi terlihat"
+   },
+   "d": {
+    "en": "Object-oriented ideas are hard because you cannot see them. Visualisations give each concept a shape that students can look at and compare.",
+    "id": "Konsep berorientasi objek sulit karena tidak bisa dilihat. Visualisasi memberi setiap konsep bentuk yang bisa dilihat dan dibandingkan siswa."
+   }
+  },
+  {
+   "img": "feat-4",
+   "big": false,
+   "rec": false,
+   "video": "",
+   "t": {
+    "en": "Learning by discovery",
+    "id": "Belajar lewat penemuan"
+   },
+   "d": {
+    "en": "Built on Discovery Learning: students explore, try, observe and reach the idea themselves instead of receiving a ready-made answer.",
+    "id": "Dibangun dengan Discovery Learning: siswa menjelajah, mencoba, mengamati, dan menemukan idenya sendiri, bukan menerima jawaban jadi."
+   }
+  }
+ ],
+ "cars": {
+  "docs": {
+   "h": {
+    "en": "Documentation I wrote",
+    "id": "Dokumentasi yang saya tulis"
+   },
+   "slides": [
+    {
+     "img": "doc-ug",
+     "t": {
+      "en": "User guide",
+      "id": "User guide"
+     },
+     "d": {
+      "en": "Step-by-step guide for one user role",
+      "id": "Panduan langkah demi langkah untuk satu peran pengguna"
+     }
+    },
+    {
+     "img": "doc-srs",
+     "t": {
+      "en": "SRS: use case diagram",
+      "id": "SRS: use case diagram"
+     },
+     "d": {
+      "en": "Who does what in the system",
+      "id": "Siapa melakukan apa di dalam sistem"
+     }
+    },
+    {
+     "img": "doc-seq",
+     "t": {
+      "en": "SRS: sequence diagram",
+      "id": "SRS: sequence diagram"
+     },
+     "d": {
+      "en": "How a request moves between components",
+      "id": "Bagaimana sebuah permintaan bergerak antar komponen"
+     }
+    },
+    {
+     "img": "doc-api",
+     "t": {
+      "en": "REST API documentation",
+      "id": "Dokumentasi REST API"
+     },
+     "d": {
+      "en": "24 endpoints: Auth, User, Role, Device",
+      "id": "24 endpoint: Auth, User, Role, Device"
+     }
+    }
+   ]
+  },
+  "tests": {
+   "h": {
+    "en": "Testing and bug reports",
+    "id": "Pengujian dan bug report"
+   },
+   "slides": [
+    {
+     "img": "bug-1",
+     "t": {
+      "en": "Bug report",
+      "id": "Bug report"
+     },
+     "d": {
+      "en": "Steps, expected result, actual result",
+      "id": "Langkah, hasil yang diharapkan, hasil aktual"
+     }
+    },
+    {
+     "img": "bug-2",
+     "t": {
+      "en": "Retest after the fix",
+      "id": "Retest setelah perbaikan"
+     },
+     "d": {
+      "en": "Same steps on the new build",
+      "id": "Langkah yang sama pada build baru"
+     }
+    },
+    {
+     "img": "bug-3",
+     "t": {
+      "en": "Database check",
+      "id": "Pengecekan database"
+     },
+     "d": {
+      "en": "Confirming the data was stored correctly",
+      "id": "Memastikan data tersimpan dengan benar"
+     }
+    }
+   ]
+  }
+ },
+ "projectFilters": [
+  {
+   "k": "all",
+   "n": {
+    "en": "All",
+    "id": "Semua"
+   }
+  },
+  {
+   "k": "web",
+   "n": {
+    "en": "Web",
+    "id": "Web"
+   }
+  },
+  {
+   "k": "mobile",
+   "n": {
+    "en": "Mobile",
+    "id": "Mobile"
+   }
+  },
+  {
+   "k": "kemakom",
+   "n": {
+    "en": "Kemakom",
+    "id": "Kemakom"
+   }
+  },
+  {
+   "k": "thesis",
+   "n": {
+    "en": "Thesis",
+    "id": "Skripsi"
+   }
+  }
+ ],
+ "projects": [
+  {
+   "id": "codevisualize",
+   "types": [
+    "web",
+    "thesis"
+   ],
+   "name": "CodeVisualize",
+   "kind": {
+    "en": "Undergraduate thesis · Interactive learning medium · 2026",
+    "id": "Skripsi · Media pembelajaran interaktif · 2026"
+   },
+   "desc": {
+    "en": "A web medium for learning object-oriented programming. It joins a code editor with visualisations, and it can turn code into a picture.",
+    "id": "Media web untuk belajar pemrograman berorientasi objek. Menggabungkan code editor dengan visualisasi, dan dapat mengubah kode menjadi gambar."
+   },
+   "points": [
+    {
+     "en": "Designed, built and evaluated the learning medium end to end (R&D).",
+     "id": "Merancang, membangun, dan mengevaluasi media pembelajaran dari awal sampai akhir (R&D)."
+    },
+    {
+     "en": "Joined a code editor with conceptual visualisation, following Discovery Learning.",
+     "id": "Menggabungkan code editor dengan visualisasi konseptual berbasis Discovery Learning."
+    },
+    {
+     "en": "Tested with Grade 10 PPLG students at SMK Al-Falah. Statistical tests showed that learning outcomes improved, regardless of prior ability.",
+     "id": "Diuji pada siswa kelas X PPLG di SMK Al-Falah. Uji statistik menunjukkan hasil belajar meningkat, tanpa dipengaruhi kemampuan awal."
+    }
+   ],
+   "stack": [
+    "React.js",
+    "Express.js",
+    "MongoDB"
+   ],
+   "links": [],
+   "shots": [
+    {
+     "img": "feat-1",
+     "caption": {
+      "en": "Code becomes a picture",
+      "id": "Kode menjadi gambar"
+     }
+    },
+    {
+     "img": "feat-2",
+     "caption": {
+      "en": "Built-in code editor",
+      "id": "Code editor bawaan"
+     }
+    },
+    {
+     "img": "feat-3",
+     "caption": {
+      "en": "Abstract ideas made visible",
+      "id": "Konsep abstrak jadi terlihat"
+     }
+    },
+    {
+     "img": "feat-4",
+     "caption": {
+      "en": "Learning by discovery",
+      "id": "Belajar lewat penemuan"
+     }
+    }
+   ],
+   "featured": true,
+   "thesis": true
+  },
+  {
+   "id": "setgo",
+   "types": [
+    "mobile"
+   ],
+   "name": "SetGo",
+   "kind": {
+    "en": "Mobile learning app",
+    "id": "Aplikasi belajar mobile"
+   },
+   "desc": {
+    "en": "Full-stack learning app that manages content, users and learning progress.",
+    "id": "Aplikasi belajar full-stack yang mengelola konten, pengguna, dan progres belajar."
+   },
+   "points": [
+    {
+     "en": "Built the JavaScript front end of the mobile app.",
+     "id": "Membangun front end aplikasi mobile dengan JavaScript."
+    },
+    {
+     "en": "Built the RESTful API in PHP CodeIgniter for content, users and learning progress.",
+     "id": "Membangun RESTful API dengan PHP CodeIgniter untuk konten, pengguna, dan progres belajar."
+    },
+    {
+     "en": "Grew my skill in server-client integration for mobile platforms.",
+     "id": "Mengembangkan keahlian integrasi server-client untuk platform mobile."
+    }
+   ],
+   "stack": [
+    "JavaScript",
+    "PHP",
+    "CodeIgniter"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "App code",
+      "id": "Kode aplikasi"
+     },
+     "u": "https://github.com/Ersamey/SetGoMobile"
+    },
+    {
+     "l": {
+      "en": "API code",
+      "id": "Kode API"
+     },
+     "u": "https://github.com/Ersamey/backendSetgo"
+    }
+   ],
+   "shots": [
+    {
+     "img": "sg-1",
+     "caption": {
+      "en": "Login",
+      "id": "Login"
+     }
+    },
+    {
+     "img": "sg-2",
+     "caption": {
+      "en": "Course list",
+      "id": "Daftar materi"
+     }
+    },
+    {
+     "img": "sg-3",
+     "caption": {
+      "en": "Quiz",
+      "id": "Kuis"
+     }
+    },
+    {
+     "img": "sg-4",
+     "caption": {
+      "en": "Progress",
+      "id": "Progres"
+     }
+    },
+    {
+     "img": "sg-5",
+     "caption": {
+      "en": "Completed tasks",
+      "id": "Tugas selesai"
+     }
+    }
+   ],
+   "fit": "contain"
+  },
+  {
+   "id": "go2fly",
+   "types": [
+    "web"
+   ],
+   "name": "Go2Fly",
+   "kind": {
+    "en": "Flight ticket website · 2023",
+    "id": "Website tiket pesawat · 2023"
+   },
+   "desc": {
+    "en": "End-to-end booking: login, schedule search, payment, booking history and digital ticket.",
+    "id": "Pemesanan end-to-end: login, pencarian jadwal, pembayaran, riwayat pemesanan, dan tiket digital."
+   },
+   "points": [
+    {
+     "en": "Designed the relational database for schedules, routes, passengers, transactions and tickets.",
+     "id": "Merancang database relasional untuk jadwal, rute, penumpang, transaksi, dan tiket."
+    },
+    {
+     "en": "Wrote all SQL queries by hand to manage the data.",
+     "id": "Menulis seluruh query SQL secara manual untuk pengelolaan data."
+    },
+    {
+     "en": "Built the whole back-end flow, from login to digital ticket, in native PHP.",
+     "id": "Membangun seluruh alur backend dari login hingga tiket digital dengan PHP native."
+    }
+   ],
+   "stack": [
+    "PHP",
+    "MySQL",
+    "SQL"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "Code",
+      "id": "Kode"
+     },
+     "u": "https://github.com/Ersamey/Basisdata_TiketPenerbangan"
+    }
+   ],
+   "shots": [
+    {
+     "img": "go-2",
+     "caption": {
+      "en": "Flight schedule",
+      "id": "Jadwal penerbangan"
+     }
+    },
+    {
+     "img": "go-3",
+     "caption": {
+      "en": "Booking history",
+      "id": "Riwayat pemesanan"
+     }
+    },
+    {
+     "img": "go-1",
+     "caption": {
+      "en": "Login",
+      "id": "Login"
+     }
+    },
+    {
+     "img": "go-4",
+     "caption": {
+      "en": "Payment",
+      "id": "Pembayaran"
+     }
+    },
+    {
+     "img": "go-5",
+     "caption": {
+      "en": "Digital ticket",
+      "id": "Tiket digital"
+     }
+    }
+   ]
+  },
+  {
+   "id": "perpusku",
+   "types": [
+    "web"
+   ],
+   "name": "PerpusKu",
+   "kind": {
+    "en": "Library information website · 2023",
+    "id": "Website informasi perpustakaan · 2023"
+   },
+   "desc": {
+    "en": "Shows which libraries in Bandung hold a book, digital or physical, with search and reviews.",
+    "id": "Menampilkan perpustakaan di Bandung yang memiliki sebuah buku, digital maupun fisik, dengan pencarian dan ulasan."
+   },
+   "points": [
+    {
+     "en": "Designed the database and built the API.",
+     "id": "Merancang database dan membangun API."
+    },
+    {
+     "en": "Implemented the business logic of book search and reviews.",
+     "id": "Mengimplementasikan logika bisnis pencarian dan ulasan buku."
+    },
+    {
+     "en": "Integrated Myth:Auth for user login.",
+     "id": "Mengintegrasikan Myth:Auth untuk login pengguna."
+    },
+    {
+     "en": "Made sure all server-side functions run reliably.",
+     "id": "Memastikan seluruh fungsi di sisi server berjalan baik."
+    }
+   ],
+   "stack": [
+    "CodeIgniter 4",
+    "Myth:Auth",
+    "MySQL"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "Code",
+      "id": "Kode"
+     },
+     "u": "https://github.com/Ersamey/PerpusKu"
+    }
+   ],
+   "shots": [
+    {
+     "img": "pk-1",
+     "caption": {
+      "en": "Home",
+      "id": "Beranda"
+     }
+    },
+    {
+     "img": "pk-2",
+     "caption": {
+      "en": "Book list and search",
+      "id": "Daftar buku dan pencarian"
+     }
+    },
+    {
+     "img": "pk-3",
+     "caption": {
+      "en": "Book detail and availability",
+      "id": "Detail buku dan ketersediaan"
+     }
+    },
+    {
+     "img": "pk-4",
+     "caption": {
+      "en": "Reviews",
+      "id": "Ulasan"
+     }
+    }
+   ]
+  },
+  {
+   "id": "pelatek",
+   "types": [
+    "web",
+    "kemakom"
+   ],
+   "name": "Pelatek",
+   "kind": {
+    "en": "Technology training site · Kemakom 2024",
+    "id": "Website pelatihan teknologi · Kemakom 2024"
+   },
+   "desc": {
+    "en": "Registration from form to payment validation. Admins accept or reject each registrant based on the transfer proof.",
+    "id": "Pendaftaran dari formulir hingga validasi pembayaran. Admin menerima atau menolak pendaftar berdasarkan bukti transfer."
+   },
+   "points": [
+    {
+     "en": "Owned the whole back end: the registrant data flow from form to payment validation.",
+     "id": "Memegang seluruh backend: alur data pendaftar dari formulir hingga validasi pembayaran."
+    },
+    {
+     "en": "Admins accept or reject each registrant from the transfer proof in the admin panel.",
+     "id": "Admin menerima atau menolak pendaftar berdasarkan bukti transfer di panel admin."
+    },
+    {
+     "en": "Built a responsive HTML/CSS base for the front end.",
+     "id": "Membuat dasar front end HTML/CSS yang responsif."
+    }
+   ],
+   "stack": [
+    "PHP",
+    "HTML/CSS"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "Code",
+      "id": "Kode"
+     },
+     "u": "https://github.com/Ersamey/Pelatek"
+    }
+   ],
+   "shots": [
+    {
+     "img": "pl-1",
+     "caption": {
+      "en": "Landing page",
+      "id": "Halaman utama"
+     }
+    },
+    {
+     "img": "pl-2",
+     "caption": {
+      "en": "Admin panel with registrants",
+      "id": "Panel admin dengan daftar pendaftar"
+     }
+    },
+    {
+     "img": "pl-3",
+     "caption": {
+      "en": "Registration form",
+      "id": "Formulir pendaftaran"
+     }
+    },
+    {
+     "img": "pl-4",
+     "caption": {
+      "en": "Mobile home",
+      "id": "Beranda di ponsel"
+     }
+    }
+   ]
+  },
+  {
+   "id": "ice",
+   "types": [
+    "web",
+    "kemakom"
+   ],
+   "name": "Ilkom Challenge 2024",
+   "kind": {
+    "en": "Competition site · Kemakom 2024",
+    "id": "Website kompetisi · Kemakom 2024"
+   },
+   "desc": {
+    "en": "Tiered registration for teams and members, with payment, transfer-proof upload and an admin view.",
+    "id": "Pendaftaran berjenjang untuk tim dan anggota, dengan pembayaran, unggah bukti transfer, dan tampilan admin."
+   },
+   "points": [
+    {
+     "en": "Owned the back end: participant registration, and storage of team and member data.",
+     "id": "Memegang backend: registrasi peserta serta penyimpanan data tim dan anggota."
+    },
+    {
+     "en": "Integrated payment and transfer-proof upload.",
+     "id": "Mengintegrasikan pembayaran dan unggah bukti transfer."
+    },
+    {
+     "en": "Built the HTML/CSS base of an informative design that works for both users and administrators.",
+     "id": "Membangun dasar HTML/CSS dengan desain informatif yang efisien untuk pengguna dan administrator."
+    }
+   ],
+   "stack": [
+    "PHP",
+    "HTML/CSS"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "Live site",
+      "id": "Situs aktif"
+     },
+     "u": "https://kemakom.org/ilkomchallenge24"
+    }
+   ],
+   "shots": [
+    {
+     "img": "ic-1",
+     "caption": {
+      "en": "Landing page",
+      "id": "Halaman utama"
+     }
+    },
+    {
+     "img": "ic-2",
+     "caption": {
+      "en": "Admin dashboard",
+      "id": "Dasbor admin"
+     }
+    },
+    {
+     "img": "ic-3",
+     "caption": {
+      "en": "Registration form",
+      "id": "Formulir pendaftaran"
+     }
+    },
+    {
+     "img": "ic-4",
+     "caption": {
+      "en": "Mobile home",
+      "id": "Beranda di ponsel"
+     }
+    }
+   ]
+  },
+  {
+   "id": "wisuda",
+   "types": [
+    "web",
+    "kemakom"
+   ],
+   "name": "Wisuda Gelombang 3",
+   "kind": {
+    "en": "Graduation event site · Kemakom 2024",
+    "id": "Website acara wisuda · Kemakom 2024"
+   },
+   "desc": {
+    "en": "Participant data management and an admin module to monitor feedback and suggestions from graduates.",
+    "id": "Pengelolaan data partisipan dan modul admin untuk memantau saran dan feedback dari para wisudawan."
+   },
+   "points": [
+    {
+     "en": "Built and managed the back end of the information and participation site.",
+     "id": "Membangun dan mengelola backend website informasi dan partisipasi."
+    },
+    {
+     "en": "Owned the participant data management system.",
+     "id": "Memegang sistem pengelolaan data partisipan."
+    },
+    {
+     "en": "Built an admin module to monitor and manage graduates' feedback and suggestions, with data kept safe and quick to access.",
+     "id": "Membangun modul admin untuk memantau dan mengelola saran dan feedback wisudawan, dengan data yang aman dan mudah diakses."
+    }
+   ],
+   "stack": [
+    "PHP"
+   ],
+   "links": [],
+   "shots": [
+    {
+     "img": "wg-1",
+     "caption": {
+      "en": "Landing page",
+      "id": "Halaman utama"
+     }
+    },
+    {
+     "img": "wg-2",
+     "caption": {
+      "en": "Participation form",
+      "id": "Formulir partisipasi"
+     }
+    },
+    {
+     "img": "wg-3",
+     "caption": {
+      "en": "Feedback form",
+      "id": "Formulir feedback"
+     }
+    }
+   ]
+  },
+  {
+   "id": "upgrading",
+   "types": [
+    "web",
+    "kemakom"
+   ],
+   "name": "Upgrading 3",
+   "kind": {
+    "en": "Appreciation messages · BEM Kemakom 2024",
+    "id": "Pesan apresiasi · BEM Kemakom 2024"
+   },
+   "desc": {
+    "en": "A platform where the BEM head sends personal messages to members. Each member can open only their own message.",
+    "id": "Platform tempat Ketua BEM mengirim pesan personal kepada anggota. Setiap anggota hanya dapat membuka pesan miliknya."
+   },
+   "points": [
+    {
+     "en": "Designed the database.",
+     "id": "Merancang database."
+    },
+    {
+     "en": "Built the admin module to send, add and manage messages.",
+     "id": "Membangun modul admin untuk mengirim, menambah, dan mengelola pesan."
+    },
+    {
+     "en": "Implemented recipient-based access, so each member opens only their own message.",
+     "id": "Mengimplementasikan akses berbasis penerima, sehingga setiap anggota hanya membuka pesan miliknya."
+    }
+   ],
+   "stack": [
+    "PHP",
+    "MySQL"
+   ],
+   "links": [
+    {
+     "l": {
+      "en": "Code",
+      "id": "Kode"
+     },
+     "u": "https://github.com/Ersamey/upgrading3"
+    }
+   ],
+   "shots": [
+    {
+     "img": "up-1",
+     "caption": {
+      "en": "Home",
+      "id": "Beranda"
+     }
+    },
+    {
+     "img": "up-2",
+     "caption": {
+      "en": "Reading a message",
+      "id": "Membaca pesan"
+     }
+    },
+    {
+     "img": "up-3",
+     "caption": {
+      "en": "Sending a message (admin)",
+      "id": "Mengirim pesan (admin)"
+     }
+    },
+    {
+     "img": "up-4",
+     "caption": {
+      "en": "Mobile view",
+      "id": "Tampilan ponsel"
+     }
+    }
+   ]
+  },
+  {
+   "id": "dudu",
+   "types": [
+    "web",
+    "kemakom"
+   ],
+   "name": "DUDU reply feature",
+   "kind": {
+    "en": "Kemakom website · 2024",
+    "id": "Website Kemakom · 2024"
+   },
+   "desc": {
+    "en": "A reply feature for the message-sending page of the Kemakom website.",
+    "id": "Fitur balasan untuk halaman pengiriman pesan di website Kemakom."
+   },
+   "points": [
+    {
+     "en": "As technology staff of BEM Kemakom, I designed the back end that stores reply data.",
+     "id": "Sebagai staf teknologi BEM Kemakom, saya merancang backend untuk menyimpan data balasan."
+    },
+    {
+     "en": "Built the front end to send and read replies.",
+     "id": "Membangun front end untuk mengirim dan membaca balasan."
+    },
+    {
+     "en": "Made sending and delivery of messages efficient.",
+     "id": "Memastikan pengiriman pesan berjalan efisien."
+    }
+   ],
+   "stack": [
+    "Full-stack"
+   ],
+   "links": [],
+   "shots": [
+    {
+     "img": "dudu-1",
+     "caption": {
+      "en": "Replies under a message",
+      "id": "Balasan di bawah pesan"
+     }
+    }
+   ]
+  }
+ ],
+ "certCategories": [
+  {
+   "k": "all",
+   "n": {
+    "en": "All",
+    "id": "Semua"
+   }
+  },
+  {
+   "k": "industry",
+   "n": {
+    "en": "Industry",
+    "id": "Industri"
+   }
+  },
+  {
+   "k": "teaching",
+   "n": {
+    "en": "Teaching",
+    "id": "Pengajaran"
+   }
+  },
+  {
+   "k": "cert",
+   "n": {
+    "en": "Certifications",
+    "id": "Sertifikasi"
+   }
+  },
+  {
+   "k": "courses",
+   "n": {
+    "en": "Courses",
+    "id": "Kursus"
+   }
+  },
+  {
+   "k": "org",
+   "n": {
+    "en": "Organizations",
+    "id": "Organisasi"
+   }
+  }
+ ],
+ "certificates": [
+  {
+   "id": "c-magenta",
+   "cat": "industry",
+   "title": {
+    "en": "Magenta internship, Developer",
+    "id": "Magang MAGENTA, Developer"
+   },
+   "sub": {
+    "en": "PT Telkom Indonesia (Persero) Tbk · 4 Aug 2025 – 30 Jan 2026 · Grade A (Very Satisfactory)",
+    "id": "PT Telkom Indonesia (Persero) Tbk · 4 Agu 2025 – 30 Jan 2026 · Nilai A (Sangat Memuaskan)"
+   }
+  },
+  {
+   "id": "c-tcu-ai",
+   "cat": "industry",
+   "title": {
+    "en": "AI Mentoring Class (DCI 2025)",
+    "id": "AI Mentoring Class (DCI 2025)"
+   },
+   "sub": {
+    "en": "Telkom Corporate University · 12 Jan 2026",
+    "id": "Telkom Corporate University · 12 Jan 2026"
+   }
+  },
+  {
+   "id": "c-tcu-soft",
+   "cat": "industry",
+   "title": {
+    "en": "Soft Skill Mentoring Class, Digistar Class Intern 2025",
+    "id": "Soft Skill Mentoring Class, Digistar Class Intern 2025"
+   },
+   "sub": {
+    "en": "Telkom Corporate University · 6 Oct 2025",
+    "id": "Telkom Corporate University · 6 Okt 2025"
+   }
+  },
+  {
+   "id": "c-p3k",
+   "cat": "teaching",
+   "title": {
+    "en": "Teaching Professional Strengthening Program (P3K)",
+    "id": "Program Penguatan Profesional Kependidikan (P3K)"
+   },
+   "sub": {
+    "en": "Universitas Pendidikan Indonesia · Passed",
+    "id": "Universitas Pendidikan Indonesia · Lulus"
+   }
+  },
+  {
+   "id": "c-asprak-algo",
+   "cat": "teaching",
+   "title": {
+    "en": "Practicum Assistant, Algorithms & Programming",
+    "id": "Asisten Praktikum Algoritma dan Pemrograman"
+   },
+   "sub": {
+    "en": "Universitas Pendidikan Indonesia · Odd semester 2023/2024",
+    "id": "Universitas Pendidikan Indonesia · Semester ganjil 2023/2024"
+   }
+  },
+  {
+   "id": "c-asprak-sd",
+   "cat": "teaching",
+   "title": {
+    "en": "Practicum Assistant, Data Structures",
+    "id": "Asisten Praktikum Struktur Data"
+   },
+   "sub": {
+    "en": "Universitas Pendidikan Indonesia · 2023/2024",
+    "id": "Universitas Pendidikan Indonesia · 2023/2024"
+   }
+  },
+  {
+   "id": "c-asprak-sbd",
+   "cat": "teaching",
+   "title": {
+    "en": "Practicum Assistant, Database Systems",
+    "id": "Asisten Praktikum Sistem Basis Data"
+   },
+   "sub": {
+    "en": "Universitas Pendidikan Indonesia · Odd semester 2024/2025",
+    "id": "Universitas Pendidikan Indonesia · Semester ganjil 2024/2025"
+   }
+  },
+  {
+   "id": "c-bnsp",
+   "cat": "cert",
+   "title": {
+    "en": "BNSP Junior Web Developer",
+    "id": "BNSP Pengembang Web Pratama (Junior Web Developer)"
+   },
+   "sub": {
+    "en": "Certificate of Competence · 24 Nov 2025 · valid 3 years",
+    "id": "Sertifikat Kompetensi · 24 Nov 2025 · berlaku 3 tahun"
+   }
+  },
+  {
+   "id": "c-mos",
+   "cat": "cert",
+   "title": {
+    "en": "Microsoft Office Specialist: Word 2019 Associate",
+    "id": "Microsoft Office Specialist: Word 2019 Associate"
+   },
+   "sub": {
+    "en": "Microsoft · 4 Oct 2025",
+    "id": "Microsoft · 4 Okt 2025"
+   }
+  },
+  {
+   "id": "c-cp-html",
+   "cat": "courses",
+   "title": {
+    "en": "Learn HTML Basics",
+    "id": "Belajar Dasar HTML"
+   },
+   "sub": {
+    "en": "Codepolitan · 18 Jan 2024",
+    "id": "Codepolitan · 18 Jan 2024"
+   }
+  },
+  {
+   "id": "c-cp-css",
+   "cat": "courses",
+   "title": {
+    "en": "Learn CSS Basics",
+    "id": "Belajar Dasar CSS"
+   },
+   "sub": {
+    "en": "Codepolitan · 22 Jan 2024",
+    "id": "Codepolitan · 22 Jan 2024"
+   }
+  },
+  {
+   "id": "c-cp-js",
+   "cat": "courses",
+   "title": {
+    "en": "Learn JavaScript",
+    "id": "Belajar JavaScript"
+   },
+   "sub": {
+    "en": "Codepolitan · 25 Jan 2024",
+    "id": "Codepolitan · 25 Jan 2024"
+   }
+  },
+  {
+   "id": "c-cp-oop",
+   "cat": "courses",
+   "title": {
+    "en": "Learn OOP Concepts in JavaScript",
+    "id": "Belajar Konsep OOP di JavaScript"
+   },
+   "sub": {
+    "en": "Codepolitan · 25 Jan 2024",
+    "id": "Codepolitan · 25 Jan 2024"
+   }
+  },
+  {
+   "id": "c-cp-dom",
+   "cat": "courses",
+   "title": {
+    "en": "Learn JavaScript DOM",
+    "id": "Belajar JavaScript DOM"
+   },
+   "sub": {
+    "en": "Codepolitan · 26 Oct 2026",
+    "id": "Codepolitan · 26 Okt 2026"
+   }
+  },
+  {
+   "id": "c-cp-async",
+   "cat": "courses",
+   "title": {
+    "en": "Learn Asynchronous JavaScript",
+    "id": "Belajar JavaScript Asynchronous"
+   },
+   "sub": {
+    "en": "Codepolitan · 26 Oct 2026",
+    "id": "Codepolitan · 26 Okt 2026"
+   }
+  },
+  {
+   "id": "c-cp-ajax",
+   "cat": "courses",
+   "title": {
+    "en": "Learn AJAX & Web API",
+    "id": "Belajar AJAX dan Web API"
+   },
+   "sub": {
+    "en": "Codepolitan · 26 Oct 2026",
+    "id": "Codepolitan · 26 Okt 2026"
+   }
+  },
+  {
+   "id": "c-cp-mongo",
+   "cat": "courses",
+   "title": {
+    "en": "Learn MongoDB",
+    "id": "Belajar MongoDB"
+   },
+   "sub": {
+    "en": "Codepolitan · 27 Jan 2024",
+    "id": "Codepolitan · 27 Jan 2024"
+   }
+  },
+  {
+   "id": "c-cp-react",
+   "cat": "courses",
+   "title": {
+    "en": "Learn ReactJS",
+    "id": "Belajar ReactJS"
+   },
+   "sub": {
+    "en": "Codepolitan · 22 Nov 2025",
+    "id": "Codepolitan · 22 Nov 2025"
+   }
+  },
+  {
+   "id": "c-org-bem",
+   "cat": "org",
+   "title": {
+    "en": "BEM Kemakom UPI board certificate",
+    "id": "Sertifikat Kepengurusan BEM Kemakom UPI"
+   },
+   "sub": {
+    "en": "Staff, Technology Bureau · cabinet 2024–2025",
+    "id": "Staf Biro Teknologi · kabinet 2024–2025"
+   }
+  },
+  {
+   "id": "c-org-dpm",
+   "cat": "org",
+   "title": {
+    "en": "DPM Kemakom: Supervision Commission member",
+    "id": "DPM Kemakom: Anggota Komisi Pengawasan"
+   },
+   "sub": {
+    "en": "Term 2023/2024",
+    "id": "Periode 2023/2024"
+   }
+  },
+  {
+   "id": "c-org-p2m",
+   "cat": "org",
+   "title": {
+    "en": "P2M 2025: Coordinator, Concept Sub-division",
+    "id": "P2M 2025: Koordinator Sub Divisi Konseptor"
+   },
+   "sub": {
+    "en": "BEM KEMA FPMIPA UPI · 16–22 Jan 2025",
+    "id": "BEM KEMA FPMIPA UPI · 16–22 Jan 2025"
+   }
+  },
+  {
+   "id": "c-org-gdsc",
+   "cat": "org",
+   "title": {
+    "en": "Google Developer Student Clubs UPI, active member",
+    "id": "Google Developer Student Clubs UPI, anggota aktif"
+   },
+   "sub": {
+    "en": "2022–2023",
+    "id": "2022–2023"
+   }
+  }
+ ],
+ "photos": [
+  {
+   "id": "telkom-team",
+   "title": {
+    "en": "With the team at Telkom Test House",
+    "id": "Bersama tim di Telkom Test House"
+   },
+   "sub": {
+    "en": "Bandung · Aug 2025 – Jan 2026",
+    "id": "Bandung · Agu 2025 – Jan 2026"
+   }
+  },
+  {
+   "id": "teaching",
+   "title": {
+    "en": "Guiding students in the lab",
+    "id": "Membimbing siswa di lab"
+   },
+   "sub": {
+    "en": "SMK Negeri 2 Bandung · 2025",
+    "id": "SMK Negeri 2 Bandung · 2025"
+   }
+  }
+ ],
+ "orgs": [
+  {
+   "photo": "org-dpm",
+   "cert": "c-org-dpm",
+   "name": "DPM Kemakom UPI",
+   "role": {
+    "en": "Staff, Supervision Commission · 2023",
+    "id": "Staf Komisi Pengawasan · 2023"
+   }
+  },
+  {
+   "photo": "org-bem",
+   "cert": "c-org-bem",
+   "name": "BEM Kemakom UPI",
+   "role": {
+    "en": "Staff, Communication, Technology and Information Division · 2024",
+    "id": "Staf Divisi Komunikasi, Teknologi, dan Informasi · 2024"
+   }
+  },
+  {
+   "photo": "org-kema",
+   "cert": "c-org-p2m",
+   "name": "BEM KEMA FPMIPA UPI",
+   "role": {
+    "en": "Staff, Social-Political · 2024–2025. Coordinator, Concept Sub-division, P2M 2025",
+    "id": "Staf bidang Sosial Politik · 2024–2025. Koordinator Sub Divisi Konseptor, P2M 2025"
+   }
+  },
+  {
+   "photo": "org-ostric",
+   "cert": null,
+   "name": "Ostric",
+   "role": {
+    "en": "Deputy Head, programming skills student unit (Open Source Research Community) · 2024",
+    "id": "Wakil Ketua UKM pengembangan keahlian pemrograman (Open Source Research Community) · 2024"
+   }
+  }
+ ],
+ "contact": {
+  "title": {
+   "en": "Let's work together.",
+   "id": "Mari bekerja sama."
+  },
+  "text": {
+   "en": "The fastest way to reach me is by email. I would be glad to hear from you.",
+   "id": "Cara tercepat menghubungi saya adalah lewat email. Saya senang mendengar kabar dari Anda."
+  },
+  "copy": {
+   "en": "Copy email",
+   "id": "Salin email"
+  },
+  "copied": {
+   "en": "Copied",
+   "id": "Tersalin"
+  },
+  "alt": {
+   "en": "Ersa Meilia on a staircase in graduation attire",
+   "id": "Ersa Meilia di tangga mengenakan pakaian wisuda"
+  },
+  "links": [
+   {
+    "l": "LinkedIn",
+    "u": "https://www.linkedin.com/in/ersa-meilia-5087ba271/"
+   },
+   {
+    "l": "GitHub",
+    "u": "https://github.com/Ersamey"
+   }
+  ]
+ },
+ "footer": {
+  "left": "© 2026 Ersa Meilia",
+  "right": {
+   "en": "Last updated November 2026",
+   "id": "Terakhir diperbarui November 2026"
+  }
+ }
+}
